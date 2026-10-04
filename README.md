@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of zhihe/subscriptions.** Not for installation: use [Packagist](https://packagist.org/packages/zhihe/subscriptions) or the [upstream repository](https://github.com/echolocked/zhihe-subscriptions).
 
-**0** versions archived · Latest: [`v2.0.4`](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v2.0.4) · License: `MIT` · Flarum: `^1.8`
+**32** versions archived · Latest: [`v2.0.4`](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v2.0.4) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.12` | 2020-03-03 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.12) |
+| `v0.1.0-beta.13` | 2020-05-04 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.13) |
+| `v0.1.0-beta.14` | 2020-10-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.14) |
+| `v0.1.0-beta.15` | 2020-12-15 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.15) |
+| `v0.1.0-beta.16` | 2021-03-15 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.16) |
+| `v0.1.0-beta.3` | 2015-11-02 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-05 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.8` | 2018-11-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/zhihe-subscriptions/tree/archive/v0.1.0-beta.8) |
+
+[View all 32 versions](https://github.com/flarchive/zhihe-subscriptions/tags)
 
 Catalog entry: [packages/zhihe-subscriptions.json](https://github.com/flarchive/archive-index/blob/main/packages/zhihe-subscriptions.json)
 
